@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+log/
+temp/
+
+# Ignore configuration files with sensitive information
+config.json
