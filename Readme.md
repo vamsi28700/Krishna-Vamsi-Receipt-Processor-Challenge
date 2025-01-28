@@ -1,4 +1,4 @@
-# Receipt Processor
+# Receipt Processor API with Membership-based Points System
 
 ## File Structure
 ```
